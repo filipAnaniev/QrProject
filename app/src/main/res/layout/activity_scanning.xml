@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:weightSum="5"
+    tools:context=".ScanningActivity">
+
+    <com.budiyev.android.codescanner.CodeScannerView
+        android:id="@+id/scanner_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        app:autoFocusButtonColor="@android:color/holo_orange_light"
+        app:autoFocusButtonVisible="true"
+        app:flashButtonColor="@android:color/holo_orange_light"
+        app:flashButtonVisible="true"
+        app:frameAspectRatioHeight="1"
+        app:frameAspectRatioWidth="1"
+        app:frameColor="@android:color/holo_orange_light"
+        app:frameCornersRadius="20dp"
+        app:frameCornersSize="50dp"
+        app:frameSize="0.75"
+        app:frameThickness="3dp"
+        app:maskColor="#8A000000" />
+
+    <TextView
+        android:id="@+id/outputText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:autoLink="web"
+        android:gravity="center"
+        android:minHeight="100dp"
+        android:text="Scan something..."
+        android:textColor="#000000"
+        android:textIsSelectable="true"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/historyBTN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="50dp"
+        android:layout_weight="0"
+        android:background="@drawable/round_corners"
+        android:minHeight="48dp"
+        android:text="History"
+        android:textAllCaps="false"
+        android:textStyle="bold" />
+
+</LinearLayout>

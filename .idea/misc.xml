@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/drawable-xxxhdpi/main_high_density.xml" value="0.297" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/drawable/round_corners.xml" value="0.297" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-hdpi/activity_main_hdpi.xml" value="0.32834544677212485" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-hdpi/main_activity_high_density.xml" value="0.6" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-ldpi/activity_main_low_density.xml" value="2.4" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-mdpi/activity_main_medium_density.xml" value="0.75" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-xxhdpi/activity_main_xxdensity.xml" value="0.32834544677212485" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-xxhdpi/activity_main_xxdpi.xml" value="0.17272338606241983" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-xxxhdpi/activity_main_high_density.xml" value="0.2594594594594595" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout-xxxhdpi/activity_main_high_xxxhdpi.xml" value="0.32834544677212485" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout/activity_generating.xml" value="0.2263888888888889" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout/activity_genratingactivity.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout/activity_history.xml" value="0.2263888888888889" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout/activity_main.xml" value="0.2263888888888889" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout/activity_scanning.xml" value="0.2263888888888889" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/layout/list_item.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3205" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3205" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/mipmap-anydpi-v26/scan_button.xml" value="0.297" />
+        <entry key="..\:/Users/Filip/androidStudioProjects/QrScannerProject/app/src/main/res/mipmap-anydpi-v26/scan_button_round.xml" value="0.297" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
